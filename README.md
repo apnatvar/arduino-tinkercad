@@ -27,10 +27,10 @@ Below a short description of all the codes in this repository.
 
 9. **xor1** - _Circuit Required: Arduino Uno R3, 5 Resistors, 3 Red LED, 2 Pushutton_ - Simple circuit to simulate a XOR gate. A led is assigned to each push button to display the input. The third LED is used to display the output. (on for 1 and off for 0).
 
-10.**nand1** - _Circuit Required: Arduino Uno R3, 5 Resistors, 3 Red LED, 2 Pushutton_ - Simple circuit to simulate a NAND gate. A led is assigned to each push button to display the input. The third LED is used to display the output. (on for 1 and off for 0).
+10. **nand1** - _Circuit Required: Arduino Uno R3, 5 Resistors, 3 Red LED, 2 Pushutton_ - Simple circuit to simulate a NAND gate. A led is assigned to each push button to display the input. The third LED is used to display the output. (on for 1 and off for 0).
 
 11. **digitalread1** - _Circuit Required: Arduino Uno R3, 2 Resistors, Pushbutton, Red LED_ - Learning Code. The simplest form of a ciruit with a pushbutton to take an input. The led is on as long as the button is pressed.
 
-12.**a2_74hc731** - _Circuit Required: Arduino Uno R3, 2 Red LED, 2 Resistors, 1 Dual J-K Flip-Flop_ - This continuously blinks the two LEDs alternatively.
+12. **a2_74hc731** - _Circuit Required: Arduino Uno R3, 2 Red LED, 2 Resistors, 1 Dual J-K Flip-Flop_ - This continuously blinks the two LEDs alternatively.
 
 13. **motion** - _Circuit Required: Arduino Uno R3, PIR Sensor, Resistor, Red LED_ - Uses the PIR sensor to detect if there is anything moving in the range of the sensor. If it detects movement, the LED goes to on state
